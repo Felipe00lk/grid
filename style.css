@@ -121,3 +121,7 @@ background-image:url("https://i.ibb.co/hxKymr1s/Captura-de-tela-2025-11-28-12354
 background-size:cover;
   background-repeat:no-repeat;
 }
+@media (max-width: 600px) {
+  .grid-2, .grid-3, .classe {
+    width: 100%;   
+  }
