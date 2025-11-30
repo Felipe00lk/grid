@@ -115,7 +115,7 @@ body{
 }
 body.dark .butao{
  left:48px;
-background-color:white;
+background:white;
 }
 .botao .butao{
 background-color:black;
