@@ -1,4 +1,4 @@
-.classe{
+.html{
     display: grid;
     grid-template-columns: repeat(1, 1fr);
     grid-template-rows: repeat(1, 1fr);
@@ -118,7 +118,7 @@ background-size:cover;
   background-repeat:no-repeat;
 }
 @media (max-width: 768px) {
-  .grid-2, .grid-3, .classe {
+  .grid-2, .grid-3, .html{
     width: 80%;   
        grid-template-columns: 1fr;
       font-size:14px;
