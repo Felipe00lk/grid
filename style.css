@@ -89,12 +89,6 @@ box-shadow: 8px 7px 30px green;
   
   
 }
-.move{
-display:flex;
- justify-content:center;
-  align-items:center;
-
-}
 body.dark {
 background-color:black;
  color:white;
@@ -125,6 +119,8 @@ background-size:cover;
 }
 @media (max-width: 768px) {
   .grid-2, .grid-3, .classe {
-    width: 100%;   
+    width: 80%;   
        grid-template-columns: 1fr;
+      font-size:18px;
+      
   }
