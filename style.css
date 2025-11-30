@@ -3,7 +3,7 @@
     grid-template-columns: repeat(1, 1fr);
     grid-template-rows: repeat(1, 1fr);
     gap: 8px;   
-  border:solid blue;
+  border:solid yellow;
   width:50%;
   height:320px;
   background-size:cover;
@@ -35,7 +35,7 @@ flex-direction:column;
   
 }
 .html:hover {
-border:solid red;
+border:solid blue;
 transform:scale(1.2);
 box-shadow: 8px 7px 30px green;
 }
@@ -44,7 +44,7 @@ display: grid;
     grid-template-columns: repeat(1, 1fr);
     grid-template-rows: repeat(1, 1fr);
     gap: 8px;   
-  border: solid red;
+  border: solid orange;
   width:50%;
   height:320px;
    position:center;
@@ -59,7 +59,7 @@ display: grid;
     padding:20px;
 }
 .grid-2:hover {
-border:solid red;
+border:solid yellow;
 transform:scale(1.2);
 box-shadow: 8px 7px 30px green;
 }
@@ -68,7 +68,7 @@ box-shadow: 8px 7px 30px green;
     grid-template-columns: repeat(1, 1fr);
     grid-template-rows: repeat(1, 1fr);
     gap: 8px; 
-  border:solid violet;
+  border:solid blue;
    width:50%;
   height:320px;
    position:center;
@@ -86,6 +86,7 @@ box-shadow: 8px 7px 30px green;
 .grid-3:hover{
   transform:scale(1.2);
 box-shadow: 8px 7px 30px green;
+    border:solid orange;
   
   
   
@@ -100,7 +101,7 @@ body{
   
 }
 #botao:hover {
-  box-shadow: 2px 5px 20px red;
+  box-shadow: 3px 3px 15px white;
  
 
   
@@ -114,7 +115,7 @@ body{
     cursor:pointer;
 }
 body.dark .butao{
- left:20px;
+ left:19px;
 background:white;
 }
 .botao .butao{
