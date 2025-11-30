@@ -121,6 +121,7 @@ background-size:cover;
   .grid-2, .grid-3, .classe {
     width: 80%;   
        grid-template-columns: 1fr;
-      font-size:18px;
+      font-size:14px;
+      box-sizing:border-box;
       
   }
