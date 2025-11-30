@@ -75,7 +75,7 @@ box-shadow: 8px 7px 30px green;
     margin: 100px;
   font-size:30px;
    transition:transform ease 3s;
-  background-image:url("https://i.ibb.co/r2yWsMKC/curso-388.jpg");
+  background-image:url("https://i.ibb.co/mCKY3wk9/logo.png");
   background-size:cover;
    background-repeat: no-repeat;
   color:white;
@@ -122,7 +122,7 @@ background-size:cover;
   .grid-2, .grid-3, .html{
     width: 80%;   
        grid-template-columns: 1fr;
-      font-size:17px;
+      font-size:18px;
       padding:20px;
       
   }
