@@ -12,6 +12,7 @@
     margin:60px; transition:transform ease 3s;
    background-image:url("https://i.ibb.co/vxHwBqFR/sta-je-html.jpg");
   border-radius:25px;
+    font-size:25px;
    
 }
 h1{
@@ -22,11 +23,7 @@ h1{
   text-align:center;
   font-size:45px; 
 }
-.html{
-font-size:25px;
- 
-  color:Navy;
-}
+
 .superior{
 display:flex;
  justify-content:center;
@@ -35,7 +32,7 @@ flex-direction:column;
   
   
 }
-.classe:hover {
+.html:hover {
 border:solid red;
 transform:scale(1.2);
 box-shadow: 8px 7px 30px green;
@@ -121,7 +118,7 @@ background-size:cover;
   .grid-2, .grid-3, .html{
     width: 80%;   
        grid-template-columns: 1fr;
-      font-size:14px;
+      font-size:16px;
       box-sizing:border-box;
       
   }
