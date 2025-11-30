@@ -12,7 +12,8 @@
     margin:60px; transition:transform ease 3s;
    background-image:url("https://i.ibb.co/vxHwBqFR/sta-je-html.jpg");
   border-radius:25px;
-    font-size:25px;
+    font-size:30px;
+    color:navy;
    
 }
 h1{
@@ -47,7 +48,7 @@ display: grid;
   height:320px;
    position:center;
     margin:60px;
-  font-size:25px;
+  font-size:30px;
   color:black;
   background-image:url("https://i.ibb.co/Z6x2txmH/geradores-codigos-CSS.jpg");
      background-size:cover;
@@ -70,7 +71,7 @@ box-shadow: 8px 7px 30px green;
   height:320px;
    position:center;
     margin: 100px;
-  font-size:25px;
+  font-size:30px;
    transition:transform ease 3s;
   background-image:url("https://i.ibb.co/r2yWsMKC/curso-388.jpg");
   background-size:cover;
