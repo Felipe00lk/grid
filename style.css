@@ -14,7 +14,7 @@
   border-radius:25px;
     font-size:30px;
     color:navy;
-    padding:10px;
+    padding:20px;
    
 }
 h1{
@@ -56,7 +56,7 @@ display: grid;
   background-repeat: no-repeat;
   transition:transform ease 3s;
   border-radius:25px;
-    padding:10px;
+    padding:20px;
 }
 .grid-2:hover {
 border:solid red;
@@ -79,7 +79,7 @@ box-shadow: 8px 7px 30px green;
   background-size:cover;
    background-repeat: no-repeat;
   color:white;
-    padding:10px;
+    padding:20px;
   
   border-radius:25px;
 }
@@ -123,6 +123,6 @@ background-size:cover;
     width: 80%;   
        grid-template-columns: 1fr;
       font-size:17px;
-      padding:10px;
+      padding:20px;
       
   }
