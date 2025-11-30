@@ -106,18 +106,28 @@ body{
   
 }
 #botao{
-  background:blue;
-  border:transparent;
-  background-image:url("https://i.ibb.co/9mczwD8L/Captura-de-tela-2025-11-28-122845.png");
-  background-size:cover;
-    width:30px;
+  background-color: #333;
+    border-radius:40px;
+    width:80px;
   height:30px;
+    position:relative;
+    cursor:pointer;
 }
-body.dark #botao{
-background-image:url("https://i.ibb.co/hxKymr1s/Captura-de-tela-2025-11-28-123547.png");
-background-size:cover;
-  background-repeat:no-repeat;
+body.dark .butao{
+ left:48px;
 }
+.botao .butao{
+background-color:black;
+  width:28px;
+  height:90%;
+  border-radius:50%;
+  padding:2px;
+  transform:scale(0.8);
+  position:absolute;
+  left: 0;
+ transition:0.5s;
+}
+    
 @media (max-width: 768px) {
   .grid-2, .grid-3, .html{
     width: 80%;   
