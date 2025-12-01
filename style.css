@@ -147,6 +147,10 @@ background-color:black;
 .lin2:hover{
    transform:scale(1.8)
 }
+i{
+    display:flex;
+    flex-direction:column;
+}
     
 @media (max-width: 768px) {
   .grid-2, .grid-3, .html{
