@@ -129,9 +129,14 @@ background-color:black;
   left: 0;
  transition:0.5s;
 }
-i{
+.lin{
     font-size:30px;
+    border:none;
+      background-color:transparent;
+    transition:0.3s;
 }
+.lin:hover{
+  transform:scale(1.8);
     
 @media (max-width: 768px) {
   .grid-2, .grid-3, .html{
