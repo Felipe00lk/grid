@@ -129,6 +129,9 @@ background-color:black;
   left: 0;
  transition:0.5s;
 }
+i{
+    font-size:30px;
+}
     
 @media (max-width: 768px) {
   .grid-2, .grid-3, .html{
