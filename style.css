@@ -143,6 +143,7 @@ background-color:black;
     border:none;
       background-color:transparent;
     transition:0.3s;
+    display:flex;
 }
 .lin2:hover{
    transform:scale(1.8);
